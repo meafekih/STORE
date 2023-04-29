@@ -1,0 +1,25 @@
+{
+  "name": "store",
+  "version": "1.0.0",
+  "description": "Application store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fekih",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "connect-flash": "^0.1.1",
+    "connect-mongodb-session": "^3.1.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "express-validator": "^6.15.0",
+    "mongodb": "^5.1.0",
+    "mongoose": "^7.0.3",
+    "nodemon": "^2.0.22",
+    "package.json": "^0.0.0",
+    "promise": "^8.3.0"
+  }
+}
